@@ -1,7 +1,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
+<div align="center">
+	
+![Man Technologist](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Man%20Technologist.png)
+
+</div>
 <h1 align="center">Hey 👋, I'm Ayon Paul</h1>
+
 <h3 align="center">Full Stack Developer | Open Source Enthusiast</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayonpaul8906&style=for-the-badge" />
@@ -16,33 +21,34 @@
 
 ---
 
-## 🧠 Tech Stack
-### 💻 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
-</p>
-### 🛠 Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express"/>
+<h1><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"/>Tech Stack</h1>
+
+<p style="display: flex; gap: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayonpaul8906&theme=react"/>
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayonpaul8906&show_icons=true&theme=react"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyonPaul&theme=react"/>
-</p>
+![Stats Card 4](https://awesome-github-stats.azurewebsites.net/user-stats/ayonpaul8906?theme=github-dark&cardType=github) 
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=ayonpaul8906&theme=transparent&hide_border=true)
+<div align="center">
+<img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayonpaul8906&theme=github_dark" />
+</div>
+
+
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=ayonpaul8906&theme=onestar&row=1"/>
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d4b8ef1c-038c-4002-b6ce-a66c64905dbe" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/36b9e4ed-c702-49fb-9ad9-074b1e5df095" />
 </p>
 
 <div align="center">
