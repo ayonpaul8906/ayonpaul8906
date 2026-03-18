@@ -45,8 +45,6 @@
 <img src="https://github-trophies.vercel.app/?username=ayonpaul8906&theme=onestar&row=1"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
 <div align="center">
 <h1 align="center"> Contribution Graph </h1>
 <img src="https://ssr-contributions-svg.vercel.app/_/ayonpaul8906?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
@@ -56,13 +54,15 @@
 <h2>📝 Connect</h2>
 <br> 
 <div align="center">
-  <a href="https://github.com/Mayur-Pagote" target="_blank">
+  <a href="https://github.com/ayonpaul8906" target="_blank">
 	  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
   </a>
-  <a href="https://x.com/Mayur-Pagote" target="_blank">
+  <a href="https://x.com/Ayon2407" target="_blank">
 	  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
   </a>
-  <a href="https://linkedin.com/in/Mayur-Pagote" target="_blank">
+  <a href="https://www.linkedin.com/in/ayon2407s" target="_blank">
 	  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
