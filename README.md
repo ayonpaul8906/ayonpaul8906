@@ -10,7 +10,7 @@
 <h3 align="center">Full Stack Developer | Open Source Enthusiast</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayonpaul8906&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Mayur-Pagote?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ayonpaul8906?style=for-the-badge" />
 </p>
 
 ## 🚀 About Me
